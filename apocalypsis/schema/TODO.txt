@@ -1,0 +1,8 @@
+-consider adding back in v and V flags
+-add police models
+-when you unload a mag it gives you a box ammo filled with however much ammo was in the gun and it can't be stacked over a regular box ammo
+-add drugs?
+-test npc spawner
+-binoc item?
+-chief of police doesn't get extra salary
+-make stunstick and equippable item
