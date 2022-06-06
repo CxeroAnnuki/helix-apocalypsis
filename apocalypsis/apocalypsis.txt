@@ -1,8 +1,0 @@
-
-"apocalypsis"
-{
-	"base" 			"helix"
-	"title" 		"Apocálypsis"
-	"author" 		"Cxero"
-	"menusystem"	"1"
-}
